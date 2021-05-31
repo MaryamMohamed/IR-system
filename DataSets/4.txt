@@ -1,0 +1,1 @@
+In other words, a textual information retrieval system carries out the following tasks in response to a user's query.

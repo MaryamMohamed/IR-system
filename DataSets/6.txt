@@ -1,0 +1,1 @@
+An automated storage and retrieval system (ASRS or AS/RS) consists of a variety of computer-controlled systems for automatically placing and retrieving loads from defined storage locations.
